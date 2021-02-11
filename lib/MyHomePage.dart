@@ -18,7 +18,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Color(0xFF3E4653),
-        title: Text("w"),
+        title: Text("Arah store"),
         centerTitle: true,
         leading: IconButton(icon: Icon(Icons.menu), onPressed: () {}),
       ),
